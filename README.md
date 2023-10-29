@@ -78,5 +78,3 @@ We welcome contributions from the open-source community. If you'd like to contri
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-Feel free to extend and enhance this README to provide even more detailed information about your ecom-microservices project, including code examples, architecture diagrams, and any other relevant details. Make sure to include specific setup instructions and usage examples for users and contributors.
